@@ -1,3 +1,20 @@
+.adr h2{
+  color: rgb(67, 61, 62);
+  text-decoration: underline;
+}
+.full h1{
+  color: rgb(166, 112, 188);
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.pho img{
+ margin-top: 10px;
+    border-radius: 4%;
+ margin: 0 auto; 
+  
+
+}
+
+
 .App {
   text-align: center;
 }
